@@ -58,112 +58,72 @@
 
  
  ### 캐글 대회 리스트
- ● Titanic: Machine Learning from Disaster
-https://www.kaggle.com/c/titanic
-● House Prices: Advanced Regression Techniques
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-● Heritage Health Prize
-https://www.kaggle.com/c/hhp
+*  Titanic: Machine Learning from Disaster
+[Link](https://www.kaggle.com/c/titanic)
+ *  House Prices: Advanced Regression Techniques
+[Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+ *  Heritage Health Prize
+[Link](https://www.kaggle.com/c/hhp)
 
-● Display Advertising Challenge
-https://www.kaggle.com/c/criteo-display-ad-challenge
-● Microsoft Malware Classification Challenge (BIG 2015)
-https://www.kaggle.com/c/malware-classification
-● Otto Group Product Classification Challenge
-https://www.kaggle.com/c/otto-group-product-classification-challenge
-● Walmart Recruiting II: Sales in Stormy Weather
-https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather
+ *  Display Advertising Challenge
+[Link](https://www.kaggle.com/c/criteo-display-ad-challenge)
+ *  Microsoft Malware Classification Challenge (BIG 2015)
+[Link](https://www.kaggle.com/c/malware-classification)
+ *  Otto Group Product Classification Challenge
+[Link](https://www.kaggle.com/c/otto-group-product-classification-challenge)
+ *  Walmart Recruiting II: Sales in Stormy Weather
+[Link](https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather)
 
-● Facebook Recruiting IV: Human or Robot?
-https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
-● Crowdflower Search Results Relevance
-https://www.kaggle.com/c/crowdflower-search-relevance
-● Caterpillar Tube Pricing
-https://www.kaggle.com/c/caterpillar-tube-pricing
-● Coupon Purchase Prediction
-https://www.kaggle.com/c/coupon-purchase-prediction
+ *  Facebook Recruiting IV: Human or Robot?
+[Link](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot)
+ *  Crowdflower Search Results Relevance
+[Link](https://www.kaggle.com/c/crowdflower-search-relevance)
+ *  Caterpillar Tube Pricing
+[Link](https://www.kaggle.com/c/caterpillar-tube-pricing)
+ *  Coupon Purchase Prediction
+[Link](https://www.kaggle.com/c/coupon-purchase-prediction)
 
-● Rossmann Store Sales
-https://www.kaggle.com/c/rossmann-store-sales
-● Walmart Recruiting: Trip Type Classification
-https://www.kaggle.com/c/walmart-recruiting-trip-type-classification
-● Airbnb New User Bookings
-https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+ *  Rossmann Store Sales
+[Link](https://www.kaggle.com/c/rossmann-store-sales)
+ *  Walmart Recruiting: Trip Type Classification
+[Link](https://www.kaggle.com/c/walmart-recruiting-trip-type-classification)
+ *  Airbnb New User Bookings
+[Link](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings)
 
-● Prudential Life Insurance Assessment
-https://www.kaggle.com/c/prudential-life-insurance-assessment
-● BNP Paribas Cardif Claims Management
-https://www.kaggle.com/c/bnp-paribas-cardif-claims-management
-● Home Depot Product Search Relevance
-https://www.kaggle.com/c/home-depot-product-search-relevance
-● Santander Customer Satisfaction
-https://www.kaggle.com/c/santander-customer-satisfaction
-● Bosch Production Line Performance
-https://www.kaggle.com/c/bosch-production-line-performance
+ *  Prudential Life Insurance Assessment
+[Link](https://www.kaggle.com/c/prudential-life-insurance-assessment)
+ *  BNP Paribas Cardif Claims Management
+[Link](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management)
+ *  Home Depot Product Search Relevance
+[Link](https://www.kaggle.com/c/home-depot-product-search-relevance)
+ *  Santander Customer Satisfaction
+[Link](https://www.kaggle.com/c/santander-customer-satisfaction)
+ *  Bosch Production Line Performance
+[Link](https://www.kaggle.com/c/bosch-production-line-performance)
 
-● Allstate Claims Severity
-https://www.kaggle.com/c/allstate-claims-severity
-● Santander Product Recommendation
-https://www.kaggle.com/c/santander-product-recommendation
-● Two●Sigma Financial Modeling Challenge
-https://www.kaggle.com/c/two-sigma-financial-modeling
-● Data●Science Bowl 2017
-https://www.kaggle.com/c/data-science-bowl-2017
-● Two Sigma Connect: Rental Listing Inquiries
-https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
+ *  Allstate Claims Severity
+[Link](https://www.kaggle.com/c/allstate-claims-severity)
+ *  Santander Product Recommendation
+[Link](https://www.kaggle.com/c/santander-product-recommendation)
+ *  Two Sigma Financial Modeling Challenge
+[Link](https://www.kaggle.com/c/two-sigma-financial-modeling)
+ *  Data Science Bowl 2017
+[Link](https://www.kaggle.com/c/data-science-bowl-2017)
+ *  Two Sigma Connect: Rental Listing Inquiries
+[Link](https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries)
 
-● Quora Question Pairs
-https://www.kaggle.com/c/quora-question-pairs
-● Mercedes-Benz Greener Manufacturing
-https://www.kaggle.com/c/mercedes-benz-greener-manufacturing
-● Instacart Market Basket Analysis
-https://www.kaggle.com/c/instacart-market-basket-analysis
-● Web Traffic Time Series Forecasting
-https://www.kaggle.com/c/web-traffic-time-series-forecasting
-● Text Normalization Challenge - English Language
-https://www.kaggle.com/c/text-normalization-challenge-english-language
+ *  Quora Question Pairs
+[Link](https://www.kaggle.com/c/quora-question-pairs)
+ *  Mercedes-Benz Greener Manufacturing
+[Link](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing)
+ *  Instacart Market Basket Analysis
+[Link](https://www.kaggle.com/c/instacart-market-basket-analysis)
+ *  Web Traffic Time Series Forecasting
+[Link](https://www.kaggle.com/c/web-traffic-time-series-forecasting)
+ *  Text Normalization Challenge - English Language
+[Link](https://www.kaggle.com/c/text-normalization-challenge-english-language)
 
-● Porto Seguro’s Safe Driver Prediction
-https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
-● Passenger Screening Algorithm Challenge
-https://www.kaggle.com/c/passenger-screening-algorithm-challenge
-● Zillow Prize: Zillow’s Home Value Prediction(Zestimate)
-https://www.kaggle.com/c/zillow-prize-1
-● Corporación Favorita Grocery Sales Forecasting
-https://www.kaggle.com/c/favorita-grocery-sales-forecasting
-● TensorFlow Speech Recognition Challenge
-https://www.kaggle.com/c/tensorflow-speech-recognition-challenge
 
-● Recruit Restaurant Visitor Forecasting
-https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
-● Mercari Price Suggestion Challenge
-https://www.kaggle.com/c/mercari-price-suggestion-challenge
-● Google Cloud & NCAA® ML Competition 2018-Men's
-https://www.kaggle.com/c/mens-machine-learning-competition-2018
-● TalkingData AdTracking Fraud Detection Challenge
-https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
-● Avito Demand Prediction Challenge
-https://www.kaggle.com/c/avito-demand-prediction
-● Home Credit Default Risk
-https://www.kaggle.com/c/home-credit-default-risk
-● Google AI Open Images - Object Detection Track
-https://www.kaggle.com/c/google-ai-open-images-object-detection-track
-● TGS Salt Identification Challenge
-https://www.kaggle.com/c/tgs-salt-identification-challenge
-● PLAsTiCC Astronomical Classification
-https://www.kaggle.com/c/PLAsTiCC-2018
-● Human Protein Atlas Image Classification
-https://www.kaggle.com/c/human-protein-atlas-image-classification
-● Quora Insincere Questions Classification
-https://www.kaggle.com/c/quora-insincere-questions-classification
-● Google Analytics Customer Revenue Prediction
-https://www.kaggle.com/c/ga-customer-revenue-prediction
-● Elo Merchant Category Recommendation
-https://www.kaggle.com/c/elo-merchant-category-recommendation
-● Santander Customer Transaction Prediction
-https://www.kaggle.com/c/santander-customer-transaction-prediction
-● Data Science for Good: City of Los Angeles
-https://www.kaggle.com/c/data-science-for-good-city-of-los-angeles
 
 
    
