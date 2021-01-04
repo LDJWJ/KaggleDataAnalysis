@@ -8,7 +8,8 @@
 * [Winning Data Science Competitions](https://www.slideshare.net/OwenZhang2/tips-for-data-science-competitions)
 2015년까지 오랫동안 Kaggle 순위 1위였던 Owen의 슬라이드
 
-* [Kageel Grandmaster Kohei Blog](https://i.ho.lc/pages/about.html)
+* [Kageel Grandmaster Kohei Blog](https://i.ho.lc/pages/about.html) https://i.ho.lc/pages/about.html
+* 캐글 대회 Crowdflower Search Results Relevance 1등 솔루션 [Link](https://github.com/ChenglongChen/kaggle-CrowdFlower/blob/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf)
 
 ### 유용한 문서
  * [How to use Kaggle](https://www.kaggle.com/docs/competitions)
