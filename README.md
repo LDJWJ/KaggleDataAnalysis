@@ -11,8 +11,11 @@
 * [Kageel Grandmaster Kohei Blog](https://i.ho.lc/pages/about.html) https://i.ho.lc/pages/about.html
 * 캐글 대회 Crowdflower Search Results Relevance 1등 솔루션 [Link](https://github.com/ChenglongChen/kaggle-CrowdFlower/blob/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf)
 
-### 캐글 상위 솔루션
+### 캐글 상위 솔루션/인터뷰
  * https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions
+ * Yelp Restaurant Photo Classification - [1st place Dmitrii Tsybulevskii](https://engineeringblog.yelp.com/2016/04/yelp-kaggle-photo-challenge-interview-1.html)
+ * Instacart Market Basket Analysis, [2nd place solution](https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded)
+ * Avito Demand Prediction Challenge [9th place](https://www.slideshare.net/JinZhan/kaggle-avito-demand-prediction-challenge-9th-place-solution-124500050)
 
 ### 유용한 문서
  * [How to use Kaggle](https://www.kaggle.com/docs/competitions)
