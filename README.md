@@ -11,6 +11,9 @@
 * [Kageel Grandmaster Kohei Blog](https://i.ho.lc/pages/about.html) https://i.ho.lc/pages/about.html
 * 캐글 대회 Crowdflower Search Results Relevance 1등 솔루션 [Link](https://github.com/ChenglongChen/kaggle-CrowdFlower/blob/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf)
 
+### 캐글 상위 솔루션
+ * https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions
+
 ### 유용한 문서
  * [How to use Kaggle](https://www.kaggle.com/docs/competitions)
  * [Feature Selection](https://scikit-learn.org/stable/modules/feature_selection.html) scikit-learn의 문서
