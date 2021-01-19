@@ -14,7 +14,7 @@
 ### 캐글 상위 솔루션/인터뷰
  * https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions
  * Yelp Restaurant Photo Classification - [1st place Dmitrii Tsybulevskii](https://engineeringblog.yelp.com/2016/04/yelp-kaggle-photo-challenge-interview-1.html)
- * Instacart Market Basket Analysis, [2nd place solution](https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded)
+ * Instacart Market Basket Analysis, [2nd place solution](https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded) [2nd place Github](https://github.com/KazukiOnodera/Instacart)
  * Avito Demand Prediction Challenge [9th place](https://www.slideshare.net/JinZhan/kaggle-avito-demand-prediction-challenge-9th-place-solution-124500050)
 
 ### 유용한 문서
