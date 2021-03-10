@@ -21,6 +21,8 @@
  * [How to use Kaggle](https://www.kaggle.com/docs/competitions)
  * [Feature Selection](https://scikit-learn.org/stable/modules/feature_selection.html) scikit-learn의 문서
  * FEATURE ENGINEERING HJ van Veen의 피처 엔지니어링 문서 [Link](https://www.slideshare.net/HJvanVeen/feature-engineering-72376750)
+ - How to explain gradient boosting [Terence Parr and Jeremy Howard](https://explained.ai/gradient-boosting/index.html)
+
 
 ### 유용한 강의
  * Coursera의 캐글 강좌
