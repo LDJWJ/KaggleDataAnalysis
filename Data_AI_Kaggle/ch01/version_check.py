@@ -19,3 +19,9 @@ print("케라스 버전 : ", keras.__version__)
 print("xgboost 버전 : ", xgb.__version__)
 print("lightgbm 버전 : ", lgb.__version__)
 print("hyperopt 버전 : ", hyperopt.__version__)
+
+# tensorflow 설치시 에러
+# ERROR: Could not install packages due to an OSError: [WinError 5] 액세스가 거부되었습니다:
+# ...
+# Consider using the `--user` option or check the permissions.
+#
