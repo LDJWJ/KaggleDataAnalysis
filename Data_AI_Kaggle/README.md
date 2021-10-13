@@ -41,6 +41,7 @@
  - bhtsne 모듈 설치가 안되는 이슈(2021.03.13) - 버전 불일치로 판단됨.
 
 ## 소스 코드 보기
+ ### 수업용 코드로 이동 [Link](https://github.com/LDJWJ/KaggleDataAnalysis/tree/main/Data_AI_Kaggle/class_code_ch01_07)
  
  ### ch01 - 타이타닉 대회
 
