@@ -1,7 +1,8 @@
 # KaggleDataAnalysis
 
 
-### 데이터가 뛰어노는 AI놀이터, 캐글 실습 코드 [이동]()
+### 데이터가 뛰어노는 AI놀이터, 캐글 실습 코드 
+ * [이동](https://github.com/LDJWJ/KaggleDataAnalysis/tree/main/Data_AI_Kaggle)
 
 
 ### 캐글러
