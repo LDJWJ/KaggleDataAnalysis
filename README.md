@@ -2,16 +2,16 @@
 
 ## Titanic 
   * 타이타닉 초간단 EDA, 모델 구축 
-    [html](https://ldjwj.github.io/KaggleDataAnalysis/titanic/01_baselinemodel_onkaggle_v02.html)
-    [pdf](./titanic/01_baselinemodel_onkaggle_v02.pdf)
+    [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/01_baselinemodel_onkaggle_v02.html)
+    [pdf](./Titanic/01_baselinemodel_onkaggle_v02.pdf)
 
   * 데이터 시각화, 데이터 전처리, 모델 개선 
-    [html](https://ldjwj.github.io/KaggleDataAnalysis/titanic/02_DATA_EDA_V10.html)
-    [pdf](./titanic/02_DATA_EDA_V10.pdf)
+    [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/02_DATA_EDA_V10.html)
+    [pdf](./Titanic/02_DATA_EDA_V10.pdf)
 
   * 피처 엔지니어링, 하이퍼 파리미터 튜닝 등의 모델 개선 
-    [html](https://ldjwj.github.io/KaggleDataAnalysis/titanic/03_Model_LevelUp_V10.html)
-    [pdf](./titanic/03_Model_LevelUp_V10.pdf)
+    [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/03_Model_LevelUp_V10.html)
+    [pdf](./Titanic/03_Model_LevelUp_V10.pdf)
 
 ## Bike Sharing Demand 
   * EDA, 모델 구축 
