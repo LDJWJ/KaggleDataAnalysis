@@ -9,7 +9,7 @@
     [html](https://ldjwj.github.io/KaggleDataAnalysis/titanic/02_DATA_EDA_V10.html)
     [pdf](./titanic/02_DATA_EDA_V10.pdf)
 
-  * 피처 엔지니어링, 하이퍼 파리미터 튜닝 등의 모델 개
+  * 피처 엔지니어링, 하이퍼 파리미터 튜닝 등의 모델 개선 
     [html](https://ldjwj.github.io/KaggleDataAnalysis/titanic/03_Model_LevelUp_V10.html)
     [pdf](./titanic/03_Model_LevelUp_V10.pdf)
 
@@ -22,7 +22,7 @@
     [html](https://ldjwj.github.io/KaggleDataAnalysis/Bike/02_BikeSharingDemand_EDA_V11.html)
     [pdf](./Bike/02_BikeSharingDemand_EDA_V11.pdf)
 
-  * 피처 엔지니어링, 하이퍼 파리미터 튜닝 등의 모델 개
+  * 피처 엔지니어링, 하이퍼 파리미터 튜닝 등의 모델 개선 
     [html](https://ldjwj.github.io/KaggleDataAnalysis/Bike/03_BikeSharingDemand_MultiModel_V11.html)
     [pdf](./Bike/03_BikeSharingDemand_MultiModel_V11.pdf)
 
