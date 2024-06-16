@@ -13,6 +13,20 @@
     [html](./titanic/03_Model_LevelUp_V10.html)
     [pdf](./titanic/03_Model_LevelUp_V10.pdf)
 
+## Bike Sharing Demand 
+  * EDA, 모델 구축 
+    [html](./Bike/01_Bike_First_Model_V11.html)
+    [pdf](./Bike/01_Bike_First_Model_V11.pdf)
+
+  * 데이터 시각화, 데이터 전처리, 모델 개선 
+    [html](./Bike/02_BikeSharingDemand_EDA_V11.html)
+    [pdf](./Bike/02_BikeSharingDemand_EDA_V11.pdf)
+
+  * 피처 엔지니어링, 하이퍼 파리미터 튜닝 등의 모델 개
+    [html](./Bike/03_BikeSharingDemand_MultiModel_V11.html)
+    [pdf](./Bike/03_BikeSharingDemand_MultiModel_V11.pdf)
+
+
 
 ## 관련 링크 및 자료 
 ### 캐글러
