@@ -1,7 +1,17 @@
 # KaggleDataAnalysis
 
-### 데이터가 뛰어노는 AI놀이터, 캐글 실습 코드 
- * [이동](https://github.com/LDJWJ/KaggleDataAnalysis/tree/main/Data_AI_Kaggle)
+## Titanic 
+  * 타이타닉 초간단 EDA, 모델 구축 
+    [html](./titanic/01_baselinemodel_onkaggle_v02.html)
+    [pdf](./titanic/01_baselinemodel_onkaggle_v02.pdf)
+
+  * 데이터 시각화, 데이터 전처리, 모델 개선 
+    [html](./titanic/02_DATA_EDA_V10.html)
+    [pdf](./titanic/02_DATA_EDA_V10.pdf)
+
+  * 피처 엔지니어링, 하이퍼 파리미터 튜닝 등의 모델 개
+    [html](./titanic/03_Model_LevelUp_V10.html)
+    [pdf](./titanic/03_Model_LevelUp_V10.pdf)
 
 
 ## 관련 링크 및 자료 
