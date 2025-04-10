@@ -2,8 +2,12 @@
 
 ## Titanic 
   * 타이타닉 초간단 EDA, 모델 구축 
-    [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/01_baselinemodel_onkaggle_v02.html)
-    [pdf](./Titanic/01_baselinemodel_onkaggle_v02.pdf)
+    [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/01_Baselinemodel-onkaggle_v02_504.html)
+    [pdf](./Titanic/01_Baselinemodel-onkaggle_v02_504.pdf)
+
+  * 타이타닉 데이터 나누기, 모델 비교  
+    [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/01B_modellevelup_onkaggle_v03_504.html)
+    [pdf](./Titanic/01B_modellevelup_onkaggle_v03_504.pdf)
 
   * 데이터 시각화, 데이터 전처리, 모델 개선 
     [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/02_DATA_EDA_V10.html)
