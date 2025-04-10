@@ -10,8 +10,8 @@
     [pdf](./Titanic/01B_modellevelup_onkaggle_v03_504.pdf)
 
   * 데이터 시각화, 데이터 전처리, 모델 개선 
-    [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/02_DATA_EDA_V10.html)
-    [pdf](./Titanic/02_DATA_EDA_V10.pdf)
+    [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/02_DATA_EDA_V11_504.html)
+    [pdf](./Titanic/02_DATA_EDA_V11_504.pdf)
 
   * 피처 엔지니어링, 하이퍼 파리미터 튜닝 등의 모델 개선 
     [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/03_Model_LevelUp_V10.html)
