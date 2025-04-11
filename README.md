@@ -17,6 +17,9 @@
     [html](https://ldjwj.github.io/KaggleDataAnalysis/Titanic/03_Model_LevelUp_V10.html)
     [pdf](./Titanic/03_Model_LevelUp_V10.pdf)
 
+  * Titanic 모델 개선 솔루션 내용 정리
+    * https://www.kaggle.com/code/pliptor/how-am-i-doing-with-my-score
+
 ## Bike Sharing Demand 
   * EDA, 모델 구축 
     [html](https://ldjwj.github.io/KaggleDataAnalysis/Bike/01_Bike_First_Model_V11.html)
