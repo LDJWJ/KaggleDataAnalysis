@@ -2,7 +2,7 @@
 
 # KaggleDataAnalysis
 
-> **Note:** All slides and notebooks (PDF/HTML) are written in Korean. The code runs the same in any language, and your browser's built-in translation (e.g. Chrome) works on the HTML pages.
+> **Note:** All slides and notebooks (PDF/HTML) are in Korean. The code itself is language-independent, and your browser's built-in translation (e.g. Chrome) works on the HTML pages.
 
 ## Titanic 
   * A super-quick Titanic EDA and model building 

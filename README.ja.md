@@ -2,7 +2,7 @@
 
 # KaggleDataAnalysis
 
-> **ご注意：** 教材（PDF/HTML）はすべて **韓国語** で書かれています。コードはそのまま実行でき、HTMLページはブラウザ（Chromeなど）の自動翻訳で読むことができます。
+> **補足：** 教材（PDF/HTML）はすべて韓国語です。コード自体は言語に依存せずそのまま動作し、HTMLページはブラウザ（Chromeなど）の自動翻訳で読めます。
 
 ## Titanic 
   * タイタニックの超かんたんEDAとモデル構築 
@@ -50,7 +50,7 @@
 * [Kaggle Grandmaster Kohei Blog](https://i.ho.lc/pages/about.html) https://i.ho.lc/pages/about.html
 * Kaggleコンペ Crowdflower Search Results Relevance の1位ソリューション [Link](https://github.com/ChenglongChen/kaggle-CrowdFlower/blob/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf)
 
-### Kaggle上位ソリューション/インタビュー
+### Kaggle上位解法/インタビュー
  * https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions
  * Yelp Restaurant Photo Classification - [1st place Dmitrii Tsybulevskii](https://engineeringblog.yelp.com/2016/04/yelp-kaggle-photo-challenge-interview-1.html)
  * Instacart Market Basket Analysis, [2nd place solution](https://medium.com/kaggle-blog/instacart-market-basket-analysis-feda2700cded) [2nd place Github](https://github.com/KazukiOnodera/Instacart)
